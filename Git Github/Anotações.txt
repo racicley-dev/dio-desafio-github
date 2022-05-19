@@ -1,0 +1,13 @@
+// Básico
+
+//Iniciar repo
+git init
+
+//Adicionar arquivo
+git add -A ou git add . ou git add <nome_arquivo>
+
+//Commitar 
+git commit -m "mensagem"
+
+//Empurrar
+git push origin main
